@@ -1,4 +1,4 @@
-h1. Deep Learning Project
+Deep Learning Project
 
 *Déterminer l'auteur·rice d'une phrase  sur une sélection d'écrivains·nes donnés*
 
